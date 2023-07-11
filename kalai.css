@@ -1,0 +1,27 @@
+label{
+    display: block;
+    padding: 5px;
+}
+
+body{
+    text-align: center; 
+    background-color: #e9095b;
+}
+form{
+    padding: 30px 425px 30px 425px;
+
+}
+input[type=submit]:hover{
+    background-color: red;
+    color: white;
+   }  
+ 
+input[type=submit]{
+    background: rgb(5, 184, 5);
+    padding: 5px 8px 5px 8px;
+    border-radius:12px;
+}
+.container{    
+    border-radius: 20px;
+    background-color: #0adaa6;
+}
